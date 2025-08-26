@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube auto draft2public-with-movable-panel
-// @namespace    http://tinyant.me/
+// @namespace    https://github.com/dexzhou/YouTube-draft2public-js/blob/main/v2.js
 // @version      0.2
 // @description  批量发布YouTube草稿视频，支持选择发布数量、状态和多语言切换
 // @author       Dex Zhou
