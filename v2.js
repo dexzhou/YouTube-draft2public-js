@@ -2,7 +2,7 @@
 // @name         YouTube auto draft2public-with-movable-panel
 // @namespace    https://github.com/dexzhou/YouTube-draft2public-js/blob/main/v2.js
 // @version      0.2
-// @description  批量发布YouTube草稿视频，支持选择发布数量、状态和多语言切换
+// @description  If you have a lot of videos in draft form in your YouTube Studio and you don't need to edit each description and title individually, and you'd like to be able to publish them in bulk with just a few clicks, then this tool is worth trying, and it's completely free. You can even customize the number of videos you want to publish at a time, including Shorts. Note: Before using this tool, you must manually apply the filter and select "Draft" for visibility. 假设您的 YouTube 工作室中有很多处于草稿状态的视频,而且你不需要逐个编辑每个描述和标题，你希望只需点击几下即可批量发布，那么这个工具值得你去尝试，它是完全免费的。您甚至可以自定义每次发布的视频数量，也包括Shorts。注意：使用此工具之前，您必须手动使用过滤条件，并在公开范围内选择“草稿”。
 // @author       Dex Zhou
 // @match        https://studio.youtube.com/*
 // @grant        none
