@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name         YouTube auto draft2public-with-movable-panel
 // @namespace    https://github.com/dexzhou/YouTube-draft2public-js/blob/main/v2.js
-// @version      0.2
-// @description  If you have a lot of videos in draft form in your YouTube Studio and you don't need to edit each description and title individually, and you'd like to be able to publish them in bulk with just a few clicks, then this tool is worth trying, and it's completely free. You can even customize the number of videos you want to publish at a time, including Shorts. Note: Before using this tool, you must manually apply the filter and select "Draft" for visibility. 假设您的 YouTube 工作室中有很多处于草稿状态的视频,而且你不需要逐个编辑每个描述和标题，你希望只需点击几下即可批量发布，那么这个工具值得你去尝试，它是完全免费的。您甚至可以自定义每次发布的视频数量，也包括Shorts。注意：使用此工具之前，您必须手动使用过滤条件，并在公开范围内选择“草稿”。
+// @version      0.4
+// @description  If you have a lot of videos in draft form in your YouTube Studio and you don't need to edit each description and title individually, and you'd like to be able to publish them in bulk with just a few clicks, then this tool is worth trying, and it's completely free. You can even customize the number of videos you want to publish at a time, including Shorts. Note: Before using this tool, you must manually apply the filter and select "Draft" for visibility. 
 // @author       Dex Zhou
 // @match        https://studio.youtube.com/*
 // @grant        none
 // @license AGPL-3.0-or-later
-// @downloadURL https://update.greasyfork.org/scripts/546862/YouTube%20auto%20draft2publish.user.js
-// @updateURL https://update.greasyfork.org/scripts/546862/YouTube%20auto%20draft2publish.meta.js
+// @downloadURL https://github.com/dexzhou/YouTube-draft2public-js/edit/main/v2.js
+// @updateURL https://github.com/dexzhou/YouTube-draft2public-js/edit/main/v2.js
+// @name:zh-CN    油管草稿视频批量发布
+// @description:zh-CN    假设您的 YouTube 工作室中有很多处于草稿状态的视频,而且你不需要逐个编辑每个描述和标题，你希望只需点击几下即可批量发布，那么这个工具值得你去尝试，它是完全免费的。您甚至可以自定义每次发布的视频数量，也包括Shorts。注意：使用此工具之前，您必须手动使用过滤条件，并在公开范围内选择“草稿”。
 // ==/UserScript==
 (() => {
     // 多语言支持 - 语言包定义
